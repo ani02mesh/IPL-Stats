@@ -1,0 +1,26 @@
+.block-container.st-emotion-cache-z5fcl4.ea3mdgi5{
+padding: 0rem 5rem 10rem 5rem;
+}
+[data-testid="stMetric"]{
+background-color:#323232;
+padding-left:0.4rem;
+width:15rem;
+border-radius:15px;
+}
+[data-testid="stMetricValue"]{
+padding-left:4.7rem;
+}
+[data-testid="stMetricDeltaIcon-Down"],[data-testid="stMetricDeltaIcon-Up"]{
+visibility:hidden
+}
+[data-testid="stMetricDelta"]>.st-emotion-cache-1wivap2.e1i5pmia3{
+font-size:x-large;
+padding-left:3.4rem;
+color:white
+}
+[data-testid="stMetricValue"]>.st-emotion-cache-1wivap2.e1i5pmia3{
+color:white
+}
+[data-testid="stMetricLabel"]{
+color:white
+}
