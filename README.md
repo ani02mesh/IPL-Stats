@@ -19,11 +19,12 @@ Be Patient !!!
 
 ## Screenshots 📷
 
-![image1](https://github.com/ani02mesh/IPL-Statistics/assets/79630202/e4281fc1-fe3b-4122-88e0-05979c13c62d)
-![image2](https://github.com/ani02mesh/IPL-Statistics/assets/79630202/ea71a9ae-c625-410a-adbc-c769c5994009)
-![image3](https://github.com/ani02mesh/IPL-Statistics/assets/79630202/14c7cb7a-e6ba-4fda-ad9b-b9498e2c6c9d)
-![image4](https://github.com/ani02mesh/IPL-Statistics/assets/79630202/e3ca9ad1-9826-4f1c-b271-f140ee2d407b)
-![image](https://github.com/ani02mesh/IPL-Statistics/assets/79630202/803bb44e-c396-4456-a649-034bc448afff)
+![image](https://github.com/ani02mesh/IPL-Stats/assets/79630202/ac97477e-35ab-4aa6-bf5e-1cabace609fc)
+![image](https://github.com/ani02mesh/IPL-Stats/assets/79630202/f4159cc8-608f-49bb-bc3f-c17275bc0c25)
+![image](https://github.com/ani02mesh/IPL-Stats/assets/79630202/98ba8d74-26dc-48b4-8f13-cebeb9eb5bcb)
+![image](https://github.com/ani02mesh/IPL-Stats/assets/79630202/70f85676-5749-49f3-a2fc-3904b7c38294)
+![image](https://github.com/ani02mesh/IPL-Stats/assets/79630202/e5c560a0-797d-45fd-9fb0-4cb31f91f6c6)
+
 
 
 
